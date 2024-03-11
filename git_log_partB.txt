@@ -1,0 +1,119 @@
+commit 21dfb72b03e606e64c79207c34dc4e1810aceafb
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sun Mar 10 02:08:57 2024 +0530
+
+    pushed to github
+
+diff --git a/file1.txt b/file1.txt
+index 0330381..fbbf6bf 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -2,3 +2,5 @@ himanshu kumar computer science and engineering
+ favourite movie - barfi
+ favourite restaurant - swaruchi restaurant
+ favourite color - black
++
++pushed to github
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..9e918a9
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1,2 @@
++expected grad year - 2026 , first job - SDE2
++hello check
+
+commit cf03a6b57c1ebc2d2b6b93b192c1f59c97cc1a40
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sun Mar 10 01:24:40 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 3757229..0330381 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ himanshu kumar computer science and engineering
+ favourite movie - barfi
+ favourite restaurant - swaruchi restaurant
++favourite color - black
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 9e918a9..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-expected grad year - 2026 , first job - SDE2
+-hello check
+
+commit 783522233bec8d4f8fc954028710b959aa815f6c
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sun Mar 10 01:10:56 2024 +0530
+
+    verification
+
+diff --git a/file2.txt b/file2.txt
+index 3b9b6be..9e918a9 100644
+--- a/file2.txt
++++ b/file2.txt
+@@ -1 +1,2 @@
+ expected grad year - 2026 , first job - SDE2
++hello check
+
+commit 5929ec9c28c64c3a8d154d86f966acb496627d71
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sat Mar 9 23:44:38 2024 +0530
+
+    Graduation year and First job Added
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..3b9b6be
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++expected grad year - 2026 , first job - SDE2
+
+commit af515d22aba792765ad8d4937c433f442fe26d2b
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sat Mar 9 23:07:55 2024 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 468d6e1..3757229 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ himanshu kumar computer science and engineering
++favourite movie - barfi
++favourite restaurant - swaruchi restaurant
+
+commit 0792747a102537eb685e55523fb7a34e0d31ea96
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sat Mar 9 23:03:02 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 1b6d027..468d6e1 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-himanshu kumar 22986
++himanshu kumar computer science and engineering
+
+commit 2f5ec6be8e0f8cfc7d43d25caf6f96691fad04a0
+Author: an-al-haq <himanshujhaa212@gmail.com>
+Date:   Sat Mar 9 22:57:48 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..1b6d027
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++himanshu kumar 22986
